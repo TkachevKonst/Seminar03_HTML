@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'GilroyBold';
+    src: url(/fonts/Gilroy-Bold.ttf);
+}
+@font-face {
+    font-family: 'GilroySemibold';
+    src: url(/fonts/Gilroy-Semibold.ttf);
+}
+@font-face {
+    font-family: 'GilroyMedium';
+    src: url(/fonts/Gilroy-Medium.ttf);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.main__content{
+    max-width: 1920px;
+    background-color: #fff;
+    font-family: 'GilroyBold';
+}
+.logo__img{
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400px;
+    padding-top: 40px;
+}
+.be{
+    color: #F25822;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+}
+.menu{
+    padding-top: 40px;
+    margin-left: 40px;
+}
+.menu__left{
+    text-decoration: none;
+    color: #000;
+    font-family: GilroyMedium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+.menu__left--color{
+    text-decoration: none;
+    color: #F25822;
+    font-family: GilroySemibold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+.main__info{
+    margin-left: 40px;
+}
+.main__info__head{
+    padding-top: 96px;
+    color: #000;
+    font-family: GilroyBold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+}
+.main__info__taxt{
+    padding-top: 17px;
+    color: #888;
+    font-family: GilroyMedium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.main__button__start{
+    width: 140px;
+    height: 50px;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    color: #FFF;
+    font-family: GilroyBold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+}
+.main__button{
+    padding-top: 37px;
+    color: #AAA;
+    font-family: GilroyBold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+}
+
