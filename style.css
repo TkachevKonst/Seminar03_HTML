@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'GilroyBold';
-    src: url(/fonts/Gilroy-Bold.ttf);
+    src: url(./fonts/Gilroy-Bold.ttf);
 }
 @font-face {
     font-family: 'GilroySemibold';
-    src: url(/fonts/Gilroy-Semibold.ttf);
+    src: url(./fonts/Gilroy-Semibold.ttf);
 }
 @font-face {
     font-family: 'GilroyMedium';
-    src: url(/fonts/Gilroy-Medium.ttf);
+    src: url(./fonts/Gilroy-Medium.ttf);
 }
 *{
     padding: 0;
